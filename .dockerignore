@@ -16,3 +16,25 @@
 !/initialize.py
 !/requirements.txt
 !/server_editor.py
+
+# runpod設定のための追加
+!/bert/
+!/common/
+!/configs/
+!/dict_data/default.csv
+!/model_assets/
+!/static/
+!/slm/
+!/gradio_tabs/
+
+!/config.py
+!/default_config.yml
+!/initialize.py
+!/requirements.txt
+!/server_editor.py
+!/server_fastapi.py
+!/app.py
+!/start.sh
+!/runpod_handler.py
+!/default_style.py
+
